@@ -1,10 +1,12 @@
+Organized and refined with help from ChatGPT.
+
 # Dogs-JavaScript-API 🐶
 **Author:** Faiza Khan  
 **Project:** Dogs-JavaScript-API
-Organized and refined with help from chatgpt.
+
 
 A simple web app that displays an infinite dog slideshow.  
-HTML/CSS handle the slideshow layout/effects, and JavaScript fetches images from a public API.
+HTML/CSS handles the slideshow layout/effects, and JavaScript fetches images from a public API.
 
 ---
 
