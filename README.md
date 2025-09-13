@@ -3,6 +3,7 @@ Organized and refined with help from ChatGPT.
 # Dogs-JavaScript-API 🐶
 **Author:** Faiza Khan  
 **Project:** Dogs-JavaScript-API
+
 **Link:** https://dogs-javascript-api-project-fak-brd0h5fgghetcub6.canadacentral-01.azurewebsites.net/
 
 A simple web app that displays an infinite dog slideshow.  
